@@ -1,0 +1,15 @@
+D:\User Data\Derla\Desktop\lesson8\004\obj\Debug\net6.0\004.csproj.AssemblyReference.cache
+D:\User Data\Derla\Desktop\lesson8\004\obj\Debug\net6.0\004.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Data\Derla\Desktop\lesson8\004\obj\Debug\net6.0\004.AssemblyInfoInputs.cache
+D:\User Data\Derla\Desktop\lesson8\004\obj\Debug\net6.0\004.AssemblyInfo.cs
+D:\User Data\Derla\Desktop\lesson8\004\obj\Debug\net6.0\004.csproj.CoreCompileInputs.cache
+D:\User Data\Derla\Desktop\lesson8\004\bin\Debug\net6.0\004.exe
+D:\User Data\Derla\Desktop\lesson8\004\bin\Debug\net6.0\004.deps.json
+D:\User Data\Derla\Desktop\lesson8\004\bin\Debug\net6.0\004.runtimeconfig.json
+D:\User Data\Derla\Desktop\lesson8\004\bin\Debug\net6.0\004.dll
+D:\User Data\Derla\Desktop\lesson8\004\bin\Debug\net6.0\004.pdb
+D:\User Data\Derla\Desktop\lesson8\004\obj\Debug\net6.0\004.dll
+D:\User Data\Derla\Desktop\lesson8\004\obj\Debug\net6.0\refint\004.dll
+D:\User Data\Derla\Desktop\lesson8\004\obj\Debug\net6.0\004.pdb
+D:\User Data\Derla\Desktop\lesson8\004\obj\Debug\net6.0\004.genruntimeconfig.cache
+D:\User Data\Derla\Desktop\lesson8\004\obj\Debug\net6.0\ref\004.dll
